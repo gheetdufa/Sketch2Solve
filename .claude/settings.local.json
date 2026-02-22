@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(while read f)",
+      "Bash(do grep -l \"pattern\\\\|Pattern\" \"$f\")",
+      "Bash(done)"
+    ]
+  }
+}
